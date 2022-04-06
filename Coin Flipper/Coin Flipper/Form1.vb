@@ -17,10 +17,10 @@
 
         If flipNum Mod 2 = 0 Then
             'If number is EVEN, Option 1 wins
-            ResultLabel.Text = Option1TextBox.Text
+            ResultListBox.Items.Add(Option1TextBox.Text)
         Else
             'If number is ODD, Option 2 wins
-            ResultLabel.Text = Option2TextBox.Text()
+            ResultListBox.Items.Add(Option2TextBox.Text)
         End If
 
         flipNum = 0
@@ -30,7 +30,9 @@
     Private Sub ClearButton_Click(sender As Object, e As EventArgs) Handles ClearButton.Click
         Option1TextBox.Text = ""
         Option2TextBox.Text = ""
-        ResultLabel.Text = "Result"
+        ResultListBox.Items.Clear()
+        ResultListBox.Items.Add("Results:")
 
     End Sub
+
 End Class
