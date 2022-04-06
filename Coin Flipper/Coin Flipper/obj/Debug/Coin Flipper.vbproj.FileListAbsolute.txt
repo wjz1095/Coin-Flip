@@ -1,0 +1,2 @@
+C:\Users\Charles E. Cheese\AppData\Local\Temporary Projects\Coin Flipper\bin\Debug\Coin Flipper.exe.config
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\bin\Debug\Coin Flipper.exe.config
