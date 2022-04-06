@@ -1,2 +1,11 @@
 C:\Users\Charles E. Cheese\AppData\Local\Temporary Projects\Coin Flipper\bin\Debug\Coin Flipper.exe.config
 C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\bin\Debug\Coin Flipper.exe.config
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\bin\Debug\Coin Flipper.exe
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\bin\Debug\Coin Flipper.pdb
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\bin\Debug\Coin Flipper.xml
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\obj\Debug\Coin_Flipper.Resources.resources
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\obj\Debug\Coin Flipper.vbproj.GenerateResource.Cache
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\obj\Debug\Coin Flipper.exe
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\obj\Debug\Coin Flipper.xml
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\obj\Debug\Coin Flipper.pdb
+C:\Users\Charles E. Cheese\Documents\GitHub\Coin-Flip\Coin Flipper\Coin Flipper\obj\Debug\Coin_Flipper.CoinFlipperForm.resources
